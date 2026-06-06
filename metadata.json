@@ -1,0 +1,6 @@
+{
+  "name": "SeismoSafe Pakistan",
+  "description": "Seismic building risk assessment using Modified RVS method for Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
